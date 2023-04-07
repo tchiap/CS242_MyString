@@ -1,0 +1,22 @@
+#BlueJ package file
+dependency1.from=TestMyString
+dependency1.to=MyString
+dependency1.type=UsesDependency
+package.editor.height=447
+package.editor.width=560
+package.editor.x=-16
+package.editor.y=62
+package.numDependencies=1
+package.numTargets=2
+target1.height=50
+target1.name=TestMyString
+target1.type=ClassTarget
+target1.width=110
+target1.x=60
+target1.y=10
+target2.height=50
+target2.name=MyString
+target2.type=ClassTarget
+target2.width=80
+target2.x=290
+target2.y=20
